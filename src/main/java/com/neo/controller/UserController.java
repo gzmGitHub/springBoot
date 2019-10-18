@@ -54,7 +54,7 @@ public class UserController {
         System.out.println(userOut);
         //日志
         log.warn("输出日志级别");
-        //配置文件属性值
+        //配置文件属性值dfsdf
         log.warn(applicationProperties.getSchemaCrm());
         log.warn(applicationProperties.getModelMap().get("name"));
 		return userOut;
