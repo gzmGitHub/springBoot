@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource.test1",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.neo.configuration.DataSource1Config",
+      "sourceMethod": "testDataSource()"
+    },
+    {
+      "name": "spring.datasource.test2",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.neo.configuration.DataSource2Config",
+      "sourceMethod": "testDataSource()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
