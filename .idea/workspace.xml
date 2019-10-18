@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34ae6180-4869-4f49-a92e-20976d42d0d6" name="Default Changelist" comment="" />
+    <list default="true" id="34ae6180-4869-4f49-a92e-20976d42d0d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot.log.2019-10-17.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot.log.2019-10-17.018188168115193.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot.log.2019-10-17.018607609746919.tmp" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +78,7 @@
       <recent name="com.neo.configuration" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkspace\springBoot" />
       <recent name="D:\workspace\springBoot\src\main\java" />
       <recent name="D:\workspace\springBoot\src\main\resources\mapper" />
       <recent name="D:\workspace\springBoot\src\main\resources" />
@@ -129,10 +137,22 @@
       <workItem from="1571274665416" duration="47000" />
       <workItem from="1571274725050" duration="18664000" />
       <workItem from="1571361260147" duration="415000" />
+      <workItem from="1571369083067" duration="989000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
